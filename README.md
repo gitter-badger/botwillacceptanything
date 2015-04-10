@@ -1,6 +1,8 @@
 
 # Bot will accept anything
 
+[![Join the chat at https://gitter.im/mayli/botwillacceptanything](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mayli/botwillacceptanything?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### *The project where anything goes, as long as the code allows it.*
 
 A bot will automatically merge any PR on this repo that gets enough votes from the community. PRs can contain anything, *even changes to the bot's voting code*.
